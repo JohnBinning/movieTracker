@@ -5,5 +5,5 @@
   
   See the app hosted [here](https://jenn-peavler-movie-tracker.herokuapp.com/)
   
-  ![Image](Homepage.jpg)
+  ![Image](Homepage.png)
 
